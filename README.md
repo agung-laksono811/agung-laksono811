@@ -1,6 +1,14 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Agung+Catur+Laksono+👋;Software+Engineer+%7C+Web+Developer;Laravel+%7C+CodeIgniter+%7C+JavaScript;Open+to+Work+%26+Freelance+🚀" alt="Typing SVG" />
+# Hi there, I'm Agung Catur Laksono 👋
+### Software Engineer · Web Developer · Network & IoT Engineer
+
+**`Student × Working Professional · Based in Indonesia 🇮🇩`**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/agungcaturlaksono)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/agung811_)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:agungcatur811@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://agung-laksono811.github.io)
 
 </div>
 
@@ -68,37 +76,10 @@ currently:
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-![Agung's GitHub stats](https://github-readme-stats.vercel.app/api?username=agung-laksono811&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=agung-laksono811&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-### 🤝 Let's Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/agungcaturlaksono)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/agung811_)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:agungcatur811@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://agung-laksono811.github.io)
-
-</div>
-
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=agung-laksono811&color=00d9ff&style=flat-square&label=Profile+Views)
 
-</div>
+**💡 Open to work · Freelance ready · Based in Indonesia**
 
----
-
-<div align="center">
-<sub>💡 Open to work · Freelance ready · Based in Indonesia</sub>
 </div>
